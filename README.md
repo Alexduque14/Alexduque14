@@ -18,7 +18,6 @@
 ## <img src="assets/emojis/globe.gif" style="vertical-align:-10%" height="25"> Conect with Me
 
 <a href="https://www.instagram.com/alex.duque_">
-<<<<<<< HEAD
   <img src="assets/badges/instagram.svg" height="60" viewBox="0 0 50 50" alt="Instagram">
 </a> 
 <a href="mailto:alexduque1406@gmail.com">
@@ -26,15 +25,6 @@
 </a>
 <br/> <a href="mailto:d2024005730@unifei.edu.br">
   <img src="assets/badges/InstitutionalEmail.svg" height="60" viewBox="0 0 50 50" alt="Institutional Email">
-=======
-  <img src="assets/badges/instagram.svg" height="60" alt="Instagram">
-</a> 
-<a href="mailto:alexduque1406@gmail.com">
-  <img src="assets/badges/personalEmail.svg" height="60" alt="Personal Email">
-</a>
-<br/> <a href="mailto:d2024005730@unifei.edu.br">
-  <img src="assets/badges/InstitutionalEmail.svg" height="60" alt="Institutional Email">
->>>>>>> af8a051b5a0f3265c6b2e382de9725cac5b08a3a
 </a>
 
 </div>
