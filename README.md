@@ -23,11 +23,9 @@
 <a href="mailto:alexduque1406@gmail.com">
   <img src="assets/badges/personalEmail.svg" height="40" alt="Personal Email">
 </a>
-
+<br/>
 <a href="mailto:d2024005730@unifei.edu.br">
   <img src="assets/badges/InstitutionalEmail.svg" height="40" alt="Institutional Email">
 </a>
-
-
 
 </div>
