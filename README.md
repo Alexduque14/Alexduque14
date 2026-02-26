@@ -11,21 +11,20 @@
 ## <img src="assets/gifs/rocket.gif" style="vertical-align:-10%" height="25"> Skills and Technologies
 | Languages 💻 | Systems & Tools 🛠️ |
 |:--:|:--:|
-| <img src="assets/badges/c.svg" alt="C" height="80"> <img src="assets/badges/cpp.svg" alt="C++" height="40"> <img src="assets/badges/java.svg" alt="Java" height="40"> <img src="assets/badges/python.svg" alt="Python" height="40"> <img src="assets/badges/haskell.svg" alt="Haskell" height="40"> <img src="assets/badges/html.svg" alt="HTML5" height="40"> <img src="assets/badges/verilog.svg" alt="Verilog" height="40"> <img src="assets/badges/bash.svg" alt="Bash" height="40"> ![test](assets/badges/verilog.svg)
- <img src="assets/badges/quartus.svg" alt="Quartus" height="40"> <img src="assets/badges/vscode.svg" alt="VSCode" height="40"> <img src="assets/badges/git.svg" alt="Git" height="40"> <img src="assets/badges/linux.svg" alt="Linux" height="40"> <img src="assets/badges/raspiberrypi.svg" alt="Raspberry Pi" height="40"> <img src="assets/badges/apachemaven.svg" alt="Apache Maven" height="40">  |
+| [![C](assets/badges/c.svg)](https://github.com/Alexduque14?tab=repositories&q=topic:c) [![C++](assets/badges/cpp.svg)](https://github.com/Alexduque14?tab=repositories&q=topic:cpp) [![Java](assets/badges/java.svg)](https://github.com/Alexduque14?tab=repositories&q=topic:java) [![Python](assets/badges/python.svg)](https://github.com/Alexduque14?tab=repositories&q=topic:python) [![Haskell](assets/badges/haskell.svg)](https://github.com/Alexduque14?tab=repositories&q=topic:haskell) [![HTML5](assets/badges/html.svg)](https://github.com/Alexduque14?tab=repositories&q=topic:html) [![Verilog](assets/badges/verilog.svg)](https://github.com/Alexduque14?tab=repositories&q=topic:verilog) [![Bash](assets/badges/bash.svg)](https://github.com/Alexduque14?tab=repositories&q=topic:bash) | [![Quartus](assets/badges/quartus.svg)](https://www.altera.com/products/development-tools/quartus) [![VSCode](assets/badges/vscode.svg)](https://code.visualstudio.com) [![Git](assets/badges/git.svg)](https://git-scm.com) [![Linux](assets/badges/linux.svg)](https://www.kernel.org) [![Raspiberry Pi](assets/badges/raspiberrypi.svg)](https://www.raspberrypi.com) [![Apache Maven](assets/badges/apachemaven.svg)](https://maven.apache.org)
 
 ---
 
 ## <img src="assets/gifs/globe.gif" style="vertical-align:-10%" height="25"> Conect with Me
 
 <a href="https://www.instagram.com/alex.duque_">
-  <img src="assets/badges/instagram.svg" height="40" alt="Instagram">
+  <img src="assets/badges/instagram.svg" height="28" alt="Instagram">
 </a> 
 <a href="mailto:alexduque1406@gmail.com">
-  <img src="assets/badges/personalEmail.svg" height="40" alt="Personal Email">
+  <img src="assets/badges/personalEmail.svg" height="28" alt="Personal Email">
 </a>
 <br/> <a href="mailto:d2024005730@unifei.edu.br">
-  <img src="assets/badges/InstitutionalEmail.svg" height="40" alt="Institutional Email">
+  <img src="assets/badges/InstitutionalEmail.svg" height="28" alt="Institutional Email">
 </a>
 
 </div>
